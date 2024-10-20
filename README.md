@@ -7,10 +7,12 @@
 
 <br>
 <br>
+<br>
 
 ## Product Details
 ![Product Details](Detalhe.png)
 
+<br>
 <br>
 <br>
 
@@ -19,16 +21,19 @@
 
 <br>
 <br>
+<br>
 
 ## Create an Account
 ![Create an Account](Cadastrar.png)
 
 <br>
 <br>
+<br>
 
 ## Login
 ![Login](Entrar.png)
 
+<br>
 <br>
 <br>
 
